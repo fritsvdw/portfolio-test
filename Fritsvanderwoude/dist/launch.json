@@ -1,20 +1,13 @@
-     {
-            "name": "my_package",
-            "description": "Portfolio",
+
+        {
+            "name": "build",
+            "description": "building package.json",
             "version": "1.0.0",
+            "main": "index.js",
             "scripts": {
-              "test": "echo \"Error: no test specified\" && exit 1"
-            },
-            "repository": {
-              "type": "git",
-              "url": "https://github.com/fritsvdw/portfolio-test"
-            },
-            "keywords": [],
-            "author": "",
-            "license": "ISC",
-            "bugs": {
-              "url": "github.com/fritsvdw/portfolio-test"
-            },
-            "homepage": "github.com/fritsvdw/portfolio-test"
+                "test": "echo \"Error: no test specified\" && exit 1"
+              },
+              "author": "Sohom Das",
+              "license": "ISC"
 
 }
